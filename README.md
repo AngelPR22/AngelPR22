@@ -40,6 +40,7 @@
 </div> 
 
 <hr>
+
 ## 🐍 Mis contribuciones
 
  <div align="center"> 
