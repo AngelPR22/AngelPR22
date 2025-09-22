@@ -35,7 +35,7 @@
  <br> 
 
 <div align=center> 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de ChijiokeOkorji" /> 
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de Ángel" /> 
  
 </div> 
 
