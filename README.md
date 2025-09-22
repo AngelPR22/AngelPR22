@@ -50,5 +50,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/AngelPR22/AngelPR22/output/github-contribution-grid-snake.svg" /> 
   </picture> 
 </div>
-
-<hr>
