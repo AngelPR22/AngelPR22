@@ -7,3 +7,15 @@
 </h1> 
 
 ### Un ingeniero de software full-stack apasionado por crear aplicaciones web hermosas, funcionales y centradas en el usuario.
+
+- 🏫 Actualmente estoy aprendiendo diseño y desarrollo,trabajando con lenguajes como HTML, JavaScript, bases de datos y entornos de desarrollo, para crear interfaces web funcionales y optimizadas en el centro de **[Playamar](https://iesplayamar.es/)** 
+
+ <br> 
+
+<div align="center"> 
+  <a href="aponris2205@g.educaand.es"> 
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
+  </a> 
+</div>
+
+ <hr>
