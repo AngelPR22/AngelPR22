@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"        # Ejecuta todos los días a medianoche UTC
-  workflow_dispatch:           # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:           # Permite ejecutarlo manualmente desde Actions
 
 jobs:
   generate:
@@ -25,4 +25,4 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           message: "Generate contribution snake for AngelPR22"
-          add: "output/*.svg
+          add: "output/*.svg"
