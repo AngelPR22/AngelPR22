@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Corre todos los días a medianoche UTC
-  workflow_dispatch:      # Permite ejecutarlo manualmente
+    - cron: "0 0 * * *"        # Ejecuta todos los días a medianoche UTC
+  workflow_dispatch:           # Permite ejecutarlo manualmente desde la pestaña Actions
 
 jobs:
   generate:
@@ -13,16 +13,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate Snake SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: AngelPR22
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg
 
-      - name: Push to GitHub
+      - name: Commit and Push generated SVGs
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate GitHub contribution graph with Snake"
-          add: "output/*.svg"
+          message: "Generate contribution snake for AngelPR22"
+          add: "output/*.svg
