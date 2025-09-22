@@ -1,4 +1,4 @@
 <div align="center"> 
   <p>Conteo de visitantes</p>
 </div>
-<img src="https://raw.githubusercontent.com/AngelPR22/AngelPR22/refs/heads/main/razas-de-gatos.avif" alt="razas-de-gatos">
+<img src="https://github.com/AngelPR22/AngelPR22/blob/main/cute-bunny-rabbits-2ffpmk49d82pdjkf.jpg?raw=true" alt="razas-de-gatos">
