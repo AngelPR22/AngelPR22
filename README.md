@@ -6,9 +6,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48¢er=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=💜+Bienvenido+A+Mi+Perfil!💜;+🐇+Disfruten+Amigoooooos!+🦇;" /> 
 </h1> 
 
-### Un ingeniero de software full-stack apasionado por crear aplicaciones web hermosas, funcionales y centradas en el usuario.
+### Un estudiante de software apasionado por aprender a crear aplicaciones web hermosas, funcionales y centradas en el usuario.
 
-- 🏫 Actualmente estoy aprendiendo diseño y desarrollo,trabajando con lenguajes como HTML, JavaScript, bases de datos y entornos de desarrollo, para crear interfaces web funcionales y optimizadas en el centro de **[Playamar](https://iesplayamar.es/)** 
+* 😇 Mi nombre es Ángel
+* 👴 Tengo 19 años
+* 🐇 Amo los conejos y los murciélagos🦇
+* 🏫 Actualmente estoy aprendiendo diseño y desarrollo,trabajando con lenguajes como HTML, JavaScript, bases de datos y entornos de desarrollo, para crear interfaces web funcionales y optimizadas en el centro de **[Playamar](https://iesplayamar.es/)** 
 
  <br> 
 
@@ -27,5 +30,16 @@
 <p align="center"> 
   <img src="https://github.com/AngelPR22/AngelPR22/blob/main/dfsdsfsdfsdf-removebg-preview.png?raw=true" /> 
 </p> 
+
+<hr>
+
+## ⚡️ Estadísticas
+
+ <br> 
+
+<div align=center> 
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=es" alt="Estadísticas de GitHub de ChijiokeOkorji" /> 
+ 
+</div> 
 
 <hr>
