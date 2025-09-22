@@ -43,7 +43,7 @@
 
 ## 🐍 Mis contribuciones
 
- <div align="center"> 
+<div align="center"> 
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngelPR22/AngelPR22/output/github-contribution-grid-snake-dark.svg" /> 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngelPR22/AngelPR22/output/github-contribution-grid-snake.svg" /> 
@@ -51,4 +51,4 @@
   </picture> 
 </div>
 
- <hr>
+<hr>
