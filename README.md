@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
   <p>Conteo de visitantes</p> 
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Conteo de visitantes" /> 
+  <img src="https://profile-counter.glitch.me/{AngelPR22}/count.svg" alt="Conteo de visitantes" /> 
 </div>
