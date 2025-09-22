@@ -1,1 +1,1 @@
-<img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner de un desarrollador sentado frente a un escritorio">
+<img src="https://raw.githubusercontent.com/AngelPR22/AngelPR22/refs/heads/main/razas-de-gatos.avif" alt="razas-de-gatos">
