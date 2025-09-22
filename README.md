@@ -25,7 +25,7 @@
  <br> 
 
 <p align="center"> 
-  <img src="https://github.com/AngelPR22/AngelPR22/blob/main/dfsdsfsdfsdf-removebg-preview.png?raw=true" /> 
+  <img src="https://github.com/AngelPR22/AngelPR22/blob/main/fdsdfsdf-removebg-preview.png?raw=true" /> 
 </p> 
 
 <hr>
