@@ -19,3 +19,13 @@
 </div>
 
  <hr>
+ 
+ ## 🛠️ Herramientas
+
+ <br> 
+
+<p align="center"> 
+  <img src="https://github.com/AngelPR22/AngelPR22/blob/main/dfsdsfsdfsdf-removebg-preview.png?raw=true" /> 
+</p> 
+
+<hr>
