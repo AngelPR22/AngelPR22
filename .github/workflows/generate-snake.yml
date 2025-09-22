@@ -8,7 +8,7 @@
     - cron: "0 */12 * * *"
 
    # Este comando nos permite ejecutar la Acción automáticamente desde la pestaña Acciones. 
-  workflow _dispatch: 
+  workflow_dispatch: 
   
   # También se ejecuta en cada push en la rama principal 
   push: 
