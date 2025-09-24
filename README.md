@@ -43,10 +43,4 @@
 
 ## 🐍 Mis contribuciones
 
-<div align="center"> 
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngelPR22/AngelPR22/output/github-contribution-grid-snake-dark.svg" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngelPR22/AngelPR22/output/github-contribution-grid-snake.svg" /> 
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AngelPR22/AngelPR22/output/github-contribution-grid-snake.svg" /> 
-  </picture> 
-</div>
+![Animación de serpiente]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
