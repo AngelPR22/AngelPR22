@@ -8,7 +8,8 @@
 * 😇 Mi nombre es Ángel
 * 👴 Tengo 19 años
 * 🐇 Amo los conejos y los murciélagos🦇
-* 🏫 Actualmente estoy aprendiendo diseño y desarrollo,trabajando con lenguajes como HTML, JavaScript, bases de datos y entornos de desarrollo, para crear interfaces web funcionales y optimizadas en el centro de **[Playamar](https://iesplayamar.es/)** 
+* 🎓 Actualmente estoy estudiando diseño y desarrollo,trabajando con lenguajes como HTML, JavaScript, bases de datos y entornos de desarrollo, para lograr crear interfaces web funcionales y optimizadas
+* 🏫 Mi centro donde hago los estudios es **[Playamar](https://iesplayamar.es/)** 
 
  <br> 
 
