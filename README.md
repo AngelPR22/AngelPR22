@@ -11,16 +11,6 @@
 * 🎓 Actualmente estoy estudiando diseño y desarrollo,trabajando con lenguajes como HTML, JavaScript, bases de datos y entornos de desarrollo, para lograr crear interfaces web funcionales y optimizadas
 * 🏫 Mi centro donde hago los estudios es **[Playamar](https://iesplayamar.es/)** 
 
- <br> 
-
-<div align="center"> 
-  <a href="aponris2205@g.educaand.es"> 
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
-  </a> 
-</div>
-
- <hr>
- 
  ## 🛠️ Herramientas
 
  <br> 
