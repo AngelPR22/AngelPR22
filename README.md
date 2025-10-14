@@ -1,7 +1,7 @@
 <h1 align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48¢er=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=💜+Bienvenido+A+Mi+Perfil!💜;+🐇+Disfruten+Amigoooooos!+🦇;" /> 
 </h1> 
-<img src="1ef34blops6f1-removebg-preview" alt="razas-de-gatos">
+<img src="https://png.pngtree.com/png-vector/20250106/ourmid/pngtree-a-sleek-and-minimalistic-design-of-lovely-cat-png-image_15073359.png" alt="razas-de-gatos">
 
 ### Un estudiante de software apasionado por aprender a crear aplicaciones web hermosas, funcionales y centradas en el usuario.
 
